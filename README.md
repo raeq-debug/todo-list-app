@@ -30,4 +30,4 @@ A responsive to-do list app built with HTML, CSS, and vanilla JavaScript.
 - Dark mode
 
 ## 👩‍💻 Author
-Audrey Quiambao – [GitHub](https://github.com/raeq-debug)
+ – [GitHub](https://github.com/raeq-debug)
